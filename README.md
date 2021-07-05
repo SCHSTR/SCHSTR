@@ -7,7 +7,9 @@ Im originaly gratuated on Graphic Design, but discovered a really strong passion
 I can do front-end development and UI/UX, feel free to contact me at
 <a href="mailto:ricardo@schstr.com">ricardo@schstr.com</a> 🥳
 
+![My Top Langs are:](https://github-readme-stats.vercel.app/api/top-langs/?username=SCHSTR&theme=vision-friendly-dark&layout=compact)
+
 <h2 align="left">do u want know more about me?</h2>
 <p align="left">
-🐦 <a href="https://twitter.com/@rschstr" target="blank">@rschstr</a> on twitter || 📷<a href="https://instagram.com/@rschstr" target="blank">@rschstr</a> on instagram || 🎨 <a href="https://www.behance.net/@schstr" target="blank">@schstr</a> on behance
+🐦 <a href="https://twitter.com/@rschstr" target="blank">@rschstr</a> on twitter || 📷<a href="https://instagram.com/rschstr" target="blank">@rschstr</a> on instagram || 🎨 <a href="https://www.behance.net/schstr" target="blank">@schstr</a> on behance
 </p>
