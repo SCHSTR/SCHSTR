@@ -7,6 +7,7 @@ Im originaly gratuated on Graphic Design, but discovered a really strong passion
 I can do front-end development and UI/UX, feel free to contact me at
 <a href="mailto:ricardo@schstr.com">ricardo@schstr.com</a> 🥳
 
+![schstr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SCHSTR&theme=vision-friendly-dark&show_icons=true)
 ![My Top Langs are:](https://github-readme-stats.vercel.app/api/top-langs/?username=SCHSTR&theme=vision-friendly-dark&layout=compact)
 
 <h2 align="left">do u want know more about me?</h2>
