@@ -1,6 +1,6 @@
 <h1>Hi, I'm schstr 👋</h1>
 
-- 🏠 I’m a Brazilian front-end developer from <b>São Paulo</b>, currently working with Angular
+- 🏠 I’m a Brazilian front-end developer from <b>São Paulo</b>, currently working with Angular/Next
 
 Im originaly gratuated on Graphic Design, but discovered a really strong passion on codes and stuff, currently im mainly work with javascript and angular, but i like to play with discord bots in my free time, also I like to play with Go Lang
 
